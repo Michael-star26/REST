@@ -1,0 +1,27 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "express REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-star26/REST.git"
+  },
+  "keywords": [
+    "express",
+    "REST"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-star26/REST/issues"
+  },
+  "homepage": "https://github.com/Michael-star26/REST#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite": "^5.1.1"
+  }
+}
